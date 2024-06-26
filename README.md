@@ -1,1 +1,1 @@
-# rsschool-cv
+https://beinspiser.github.io/rsschool-cv/cv
