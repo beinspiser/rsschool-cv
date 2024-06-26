@@ -28,3 +28,26 @@ I try to learn every day, gain new knowledge, and understand that today I am bet
 
 ---
 
+### Skills:
+
+* HTML, CSS3
+* JavaScript basics
+* Java basic
+* Git, GitHub
+* VS Code
+* Computer science
+
+--- 
+
+### Code example:
+##### [Codewars task >](https://www.codewars.com/kata/53af2b8861023f1d88000832)
+```
+function areYouPlayingBanjo(name) {
+  let arr = name.split('');
+  let message;
+  if(arr[0] == "R" || arr[0] == 'r') {
+   return message = name + " plays banjo";
+  }
+  return message = name + " does not play banjo";
+}
+```
