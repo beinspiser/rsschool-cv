@@ -41,7 +41,7 @@ I try to learn every day, gain new knowledge, and understand that today I am bet
 
 ### Code example:
 ##### [Codewars task >](https://www.codewars.com/kata/53af2b8861023f1d88000832)
-```
+```javascript
 function areYouPlayingBanjo(name) {
   let arr = name.split('');
   let message;
@@ -59,3 +59,11 @@ function areYouPlayingBanjo(name) {
 * HTML and CSS. Professional website layout on [html academy](https://htmlacademy.ru/)
 * HTML and CSS. Adaptive layout and automation on [html academy](https://htmlacademy.ru/)
 * Stage 0, preparatory course on [RS School](https://rs.school/)
+
+---
+
+### Languages:
+
+* Russian - Native
+* Ukrainian - Proficient
+* English - Elementary
