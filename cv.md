@@ -51,3 +51,11 @@ function areYouPlayingBanjo(name) {
   return message = name + " does not play banjo";
 }
 ```
+
+---
+
+### Courses:
+
+* HTML and CSS. Professional website layout on [html academy](https://htmlacademy.ru/)
+* HTML and CSS. Adaptive layout and automation on [html academy](https://htmlacademy.ru/)
+* Stage 0, preparatory course on [RS School](https://rs.school/)
