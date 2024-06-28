@@ -1,0 +1,51 @@
+html {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1400px;
+    height: 100%;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    background-color: aquamarine;
+}
+
+.nav__list {
+    background-color: #b1c9d8;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav__item {
+    transition-duration: 0.7s;
+}
+
+.nav__item:hover {
+    background-color: #f2c100;
+}
+
+.nav__link {
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+.nav__link:hover {
+    text-decoration: underline;
+}
+
+.name {
+    margin: 0;
+    text-align: center;
+}
+
+.description {
+    text-align: center;
+}
+
+.container {
+    background-color: white;
+}
